@@ -83,14 +83,14 @@ a:hover
 
 header > h1
 {
-	background-color:#dbdb1b ;
+	background-color:  yellow;
 	color: grey;
 }
 
 
 .good
 {
-	color:lime;
+	color:green;
 	text-transform: capitalize;
 }
 
@@ -143,7 +143,7 @@ table,th,td
 	background-image: url(images/bien.png);
 }
 
-.image2
+.image1
 {
 	float : left;
 	margin : 10px;	
@@ -155,9 +155,4 @@ table,th,td
 	margin :10px;
 	margin-top: 70px
 	
-}
-
-hr
-{
-	color:white	;
 }
