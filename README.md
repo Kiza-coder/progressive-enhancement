@@ -1,6 +1,24 @@
-__## Progressive-enhancement__
+# Progressive-enhancement : The chinese farmer
 
-Create an html page of : "Story of the Chinese farmer"
+## Mission
 
-[Link to Github Page :](https://kiza-coder.github.io/progressive-enhancement/)
+- Create a mock-up and aplied him a css style
+
+## Goal
+
+- Understand the principles of HTML and CSS
+
+
+## Tecnhology
+
+- Html
+- Css
+
+## Duration
+
+- 1 day
+
+## Link
+
+- Link of the GitHub Page : [Here](https://kiza-coder.github.io/progressive-enhancement/)
 
