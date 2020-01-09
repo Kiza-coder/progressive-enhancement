@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # Progressive-enhancement : The chinese farmer
-=======
-__##Progressive-enhancement__
->>>>>>> 6f6830497a64305d4287f141d20cd28020c13d49
 
 ## Mission
 
@@ -24,5 +20,5 @@ __##Progressive-enhancement__
 
 ## Link
 
-- Link of the GitHub Page : [Here](https://kiza-coder.github.io/progressive-enhancement/)
+- Link of the GitHub Page : [Here]https://kiza-coder.github.io/progressive-enhancement/)
 
