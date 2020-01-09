@@ -20,5 +20,5 @@
 
 ## Link
 
-- Link of the GitHub Page : [Here]https://kiza-coder.github.io/progressive-enhancement/)
+- Link of the GitHub Page : [Here](https://kiza-coder.github.io/progressive-enhancement/)
 
