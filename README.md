@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Progressive-enhancement : The chinese farmer
+=======
+__##Progressive-enhancement__
+>>>>>>> 6f6830497a64305d4287f141d20cd28020c13d49
 
 ## Mission
 
